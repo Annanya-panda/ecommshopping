@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372311206284",
+    "project_id": "otpo-fc2aa",
+    "storage_bucket": "otpo-fc2aa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372311206284:android:0ada597002e7dd49f00ea9",
+        "android_client_info": {
+          "package_name": "com.newpackage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1v4UvspQN7p_94wX7vRe1meww1iiHtGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
